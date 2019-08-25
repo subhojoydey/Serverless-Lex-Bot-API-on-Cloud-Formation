@@ -64,18 +64,22 @@ https://guqdku9qt0.execute-api.us-east-1.amazonaws.com/api_get/api-ip?ip=3.3.3.3
 
 ## Scope Of Project:
 Updating the bot to meet the bonus requirements. Making sure the syntax and the UI messages are on point.
+
 OUTPUT:
 <p align="center">
 <img src="/images/AWS1.jpg" "Working example1">
 </p>
+Working example1
 
 <p align="center">
 <img src="/images/AWS2.jpg" "Working example2">
 </p>
+Working example2
 
 <p align="center">
 <img src="/images/AWS3.jpg" "Error examples">
 </p>
+Error examples
 
 ## LINKS:
 S3 Static Website: https://lex-web-ui-codebuilddeploy-1lt0x69va-webappbucket-u2vfrytwwp5r.s3.amazonaws.com/index.html
